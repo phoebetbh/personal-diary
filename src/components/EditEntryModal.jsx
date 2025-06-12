@@ -72,12 +72,15 @@ function EditEntryModal({ entry, onClose, onUpdate }) {
             />
           </div>
           <div className="flex justify-end space-x-2 mt-4">
-            <button type="submit" className="btn btn-primary">
+            <button
+              type="submit"
+              className="bg-purple-600 hover:bg-purple-700 text-white font-semibold py-1 px-3 rounded"
+            >
               Update
             </button>
             <button
               type="button"
-              className="btn btn-secondary"
+              className="bg-purple-600 hover:bg-purple-700 text-white font-semibold py-1 px-3 rounded"
               onClick={onClose}
             >
               Cancel
