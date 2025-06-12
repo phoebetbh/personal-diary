@@ -1,6 +1,6 @@
 🛠️ Project Guidelines and Requirements
 
-🎥 Watch it live! https://personal-diary.onrender.com/
+🎥 Watch it live! https://personal-diary-j03k.onrender.com/
 
 ⌛ Duration: 5 days (Full Time)
 
