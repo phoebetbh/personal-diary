@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.bg-svg {
+  background-image: url("/backgroundtemplate.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
